@@ -1,0 +1,17 @@
+/*style for 03-grouping-selectors*/
+
+.click,
+.no {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman" , sans-serif;
+}
+
+.click {
+    background-color: rgb(0,0,0);
+    color: rgb(255,255,255 );
+
+}
+
+.no {
+    background-color: hsl(60, 100%, 45%);
+}
